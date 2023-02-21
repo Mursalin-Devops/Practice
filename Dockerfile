@@ -4,4 +4,4 @@ MAINTAINER mursalinmd1994@gmail.com
 
 RUN apt-get update 
 RUN apt-get install –y nginx 
-CMD [“echo”,”Image build”] 
+CMD [“echo”,”Image build created”] 
